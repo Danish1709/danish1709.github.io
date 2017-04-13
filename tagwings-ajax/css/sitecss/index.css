@@ -1,0 +1,250 @@
+/*banner responsive*/
+
+@media all and (max-width:360px) and (min-width:320px)
+{
+    .header-content-index
+    {
+        height: 200px;
+    }
+    
+    .header-content-index .call-to-action p {
+    color: #fff;
+    margin-top: 3px; 
+    font-family: Montserrat Thin;
+    letter-spacing: 2px;
+    font-size: 40px;
+    }
+    
+    .header-content-index .call-to-action h2 {
+    color: #fff;
+    padding-top: 30px;
+    margin-left: 0%;
+    margin-right: 0%; 
+    font-size:10px;
+    letter-spacing: 1px;
+    text-align: center;
+    }
+}
+
+@media(min-width:768px)
+{
+    .header-content-index
+    {
+        height: 300px;
+    }
+    
+    .header-content-index .call-to-action p {
+    color: #fff;
+    margin-top: 15px; 
+    font-family: Montserrat Thin;
+    letter-spacing: 5px;
+    font-size: 80px;
+    margin-left: -35px;
+    }
+    
+    .header-content-index .call-to-action h2 {
+    color: #fff;
+    margin-left: 0%;
+    margin-right: 0%; 
+    font-size:12px; } 
+    
+
+    
+}
+
+
+@media(min-width:1280px){
+    
+    .header-content-index
+    {
+        height: 700px;
+    }
+}
+
+
+/*banner responsive close*/
+
+
+.strategize
+            {        padding-left: 5px;
+                    color: #000;
+                    overflow:hidden;
+                    background-color:#ffbc00;  
+                    text-align: center;
+                    padding: 15px;
+            }
+            .strategize2{
+                padding-left: 5px;
+                background-color: #000;
+                color: #ffbc00;
+                 overflow:hidden;
+                text-align: center;
+                padding: 15px;
+            }
+                
+           .strategize h5
+            {
+                    padding-top:15px;
+                text-decoration:none;
+            }
+            .strategize2 h5
+            {
+                    padding-top:15px;
+                text-decoration:none;
+            }
+            
+            .strategize img{
+                padding-top: 15px;
+                float: center;
+            }
+            .strategize2 img{
+                padding-top: 15px;
+                float: center;
+            }
+                
+            .service_title{
+                width:100px;
+            }
+            
+            .button{
+                background-color:#000;
+                color:#ffbc00; 
+                padding:8px;
+                text-decoration:none;
+            }
+            .button:hover{
+                background-color:#ffbc00;
+                color:#000; 
+                padding:8px;
+                text-decoration:none;
+            }
+            
+            .service-img{
+                   padding-left: 5px;
+                    color: #000;
+                    overflow:hidden;
+                    background-color:#ffbc00;  
+                    text-align: center;
+            }
+            
+            .service  a{
+                text-decoration: none;
+            
+            }
+
+            .service .center h5{
+                text-align: center;
+            }
+            .service .center img{
+                margin: 0 auto;
+            }
+            
+            /*gallaxy view*/
+            @media (max-width: 360px)
+            {
+                .service-branding{
+                    float: left;
+                }  
+                
+                .galaxy-view{
+                   margin-top: -150px; 
+                    float: right;
+                }
+                
+                .galaxy-view-social{
+                    margin-top: -30px;
+                }
+                
+            }
+            
+            @media (max-width: 414px)
+            {
+                .service-branding{
+                    float: left;
+                }  
+                
+                .galaxy-view{
+                   margin-top: -150px; 
+                    float: right;
+                }
+                
+                .galaxy-view-social{
+                    margin-top: -30px;
+                }
+            }
+
+
+
+@media (max-width: 1366px)
+{
+    .ipad-index p {
+        text-align: justify;
+    }
+   
+}
+
+@media (min-width: 768px)
+{
+ 
+    @media  ( min-height :768px)
+    {
+         .ipad-index p {
+
+        font-size:20px;
+            text-align: justify;
+        }
+        .ipad-index h5 {
+
+        font-size:20px;
+        }
+    }
+}
+
+/*blogs*/
+@media(max-width:767px)
+{
+    .blogs-view .col-xs-6{
+        width: 100%;
+            
+    }
+    .blogs-view h5{
+        margin-bottom: 30px;
+        margin-top: -20px;
+    }
+
+}
+
+
+  .banner {
+                          /*height: 400px;
+                          width: 400px;*/
+                          position: relative;
+                           left: 0;
+                           right: 0;
+                        }
+               image {
+                      position: absolute;
+                     
+                    }
+                #text {
+                      z-index: 100;
+                      position: absolute;
+                      color: #000;
+                      font-size: 24px;
+                      font-weight: bold;
+                      left: 150px;
+                      top: 350px;
+                    }
+               .center h2
+               {
+                   padding: :10px;
+                   background-color: #ffbc00;
+                   font-family: monsterrate;
+                   font-size: 35px;
+                   text-align: center;
+               }
+
+
+
+
+

@@ -1,0 +1,84 @@
+/*banner responsive*/
+@media all and (max-width:360px) and (min-width:320px)
+{
+    .header-content-contact
+    {
+        height: 200px;
+    }
+    
+    .header-content-contact .call-to-action p {
+    color: #fff;
+    margin-top: 10px; 
+    font-family: Montserrat Thin;
+    letter-spacing: 2px;
+    font-size: 40px;
+    }
+    
+    .header-content-contact .call-to-action h2 {
+    color: #fff;
+    margin-left: 0%;
+    margin-right: 0%; 
+    font-size:10px;
+    padding-top: 55px;
+    letter-spacing: 1px;
+    text-align: center; }
+}
+
+@media(min-width:768px)
+{
+    .header-content-contact
+    {
+        height: 300px;
+    }
+    
+    .header-content-contact .call-to-action p {
+    color: #fff;
+    margin-top: 15px; 
+    font-family: Montserrat Thin;
+    letter-spacing: 5px;
+    font-size: 80px;
+    margin-left: -35px;
+    }
+    
+    .header-content-contact .call-to-action h2 {
+    color: #fff;
+    margin-left: 0%;
+    margin-right: 0%; 
+    font-size:12px;
+    padding-top: 20px;} 
+    
+
+    
+}
+
+
+@media(min-width:1280px){
+    
+    .header-content-contact
+    {
+        height: 700px;
+    }
+}
+
+/*banner responsive close*/
+
+  .comp{
+            
+            padding:10px;
+            background-color: #ffbc00;
+            
+        }
+        .btn-submit{
+            background-color:#ffbc00;
+        }
+        .btn-submit:hover{
+            border: 1px solid #000;
+            background-color:#ffbc00;
+        }
+        .btn-cancel:hover{
+            background-color:#FFA500;
+            text-decoration: none;
+            display: inline-block;
+            border:  transparent
+            
+        }

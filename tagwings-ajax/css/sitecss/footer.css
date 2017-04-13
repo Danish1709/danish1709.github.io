@@ -1,0 +1,149 @@
+@media(max-width:767px)
+{
+    .footer-center {
+        
+        /*text-align: center;*/
+        padding-left: 60px;
+    }
+ .footer-center .row .col-sm-6{
+        
+        /*text-align: left;
+        padding-left: 76px;*/
+    }
+    
+    .exlore{
+        padding-top: 20px;
+    }
+
+}
+
+@media(max-width:414px)
+{
+    
+}
+
+
+  .footer-tab a{
+        text-decoration: none;
+        color: #BBBBBB;
+        /*font-family: sans-serif;*/
+        font-size: 14px;
+        /*padding: -2px;*/
+    }
+    
+    .footer-tab a:hover{
+        color: #ffbc00;
+    }
+    .copyright a{
+        text-decoration: none;
+        /*float: left;*/
+        
+    }
+    /*.copyright a:hover{
+        text-decoration: none;
+        color: #ffbc00;
+    }*/
+    .space p {
+        margin: -8px;
+    } .space_2 p {
+        margin-top: 30px;
+        margin-left: -15px;
+        margin-bottom: -2px;
+        font-size: 10px;
+        /*text-align: left;*/
+    }
+    .link p{
+        font-size: 12px;
+        /*margin-left: -20px;*/
+        /*padding-top: 8px;*/
+        padding-bottom: 8px;
+        text-align: center;
+    }
+    .footer-heading p
+    {
+       color: #fff; 
+    }
+    
+    .comp p
+    {
+        margin-left: 50px;
+    } .comp_2 p
+    {
+        margin-left: -10px;
+    }
+    
+    .social-hover a:hover{
+        opacity: 0.5;
+       /* background-color: #3b5998;*/
+    }
+    .social-hover .col-xs-6
+    {
+        margin-bottom: 10px;
+    }
+    .padding .col-sm-12{
+        padding-top: 5px;
+        padding-bottom: 15px;
+    }
+    
+    .explore p {
+        margin-bottom:5px;
+    }
+    .footer-logo img{
+        height:35px;
+    }
+    .footer-logo p{
+        color:#BBBBBB;
+        font-size:12px;
+        padding-top:10px;
+        margin-left:90px;  
+    }
+
+
+
+
+/*==================================================================
+mobile view menu
+====================================================================*/
+
+@media (min-width:768px)
+{
+    .mobile-menu{
+        display: none;
+    }
+    .mobile-social-icon{
+        display: none;
+    }
+    .mobile-explore{
+       display: none;
+    }
+    
+}
+
+@media (max-width:768px)
+{
+    .desktop-menu{
+        display: none;
+    }
+    .desktop-social-icon{
+        display: none;
+    }
+    .desktop-explore{
+       display: none; 
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

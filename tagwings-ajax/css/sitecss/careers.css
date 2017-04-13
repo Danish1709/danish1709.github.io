@@ -1,0 +1,25 @@
+      .tags{
+           
+            background-color:#ffbc00;
+            padding: 8px;
+            text-align: center;
+        }.tags_2{
+           
+            background-color:#ffbc00;
+            padding: 8px 25px;
+            text-align: center;
+            text-decoration: none;
+            font-family: "Times New Roman", Times, serif;
+        }
+        .tags_2:hover{
+           
+            background-color:#000;
+            color: #ffbc00;
+            text-align: center;
+            text-decoration: none;
+            font-family: "Times New Roman", Times, serif;
+        }
+        .text-align p{
+            text-align: justify;
+        }
+    

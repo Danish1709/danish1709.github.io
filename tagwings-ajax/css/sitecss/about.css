@@ -1,0 +1,179 @@
+/*banner responsive*/
+@media all and (max-width:360px) and (min-width:320px)
+{
+    .header-content-about
+    {
+        height: 200px;
+    }
+    
+    .header-content-about .call-to-action p {
+    color: #fff;
+    margin-top: 30px; 
+    font-family: Montserrat Thin;
+    letter-spacing: 2px;
+    font-size: 40px;
+    }
+    
+    .header-content-about .call-to-action h2 {
+    color: #fff;
+    margin-left: 0%;
+    margin-right: 0%; 
+    font-size:10px;
+    padding-top: 33px;
+    letter-spacing: 1px;
+    text-align: center;
+    }
+}
+
+@media(min-width:768px)
+{
+    .header-content-about
+    {
+        height: 300px;
+    }
+    
+    .header-content-about .call-to-action p {
+    color: #fff;
+    margin-top: 15px; 
+    font-family: Montserrat Thin;
+    letter-spacing: 5px;
+    font-size: 80px;
+    margin-left: -35px;
+    }
+    
+    .header-content-about .call-to-action h2 {
+    color: #fff;
+    margin-left: 0%;
+    margin-right: 0%; 
+    font-size:12px;
+    padding-top: 10px;} 
+    
+      .font-ipad{
+        padding: 10px;
+    }
+    .font-ipad p{
+    font-size: 24px;
+    }
+ 
+    .font-ipad h4{
+        font-family: sans-serif;
+        font-size: 35px;
+    }
+    .font-ipad ul li {
+        font-family:sans-serif;
+        font-size: 16px;
+        margin-top:-26px;
+        padding-left:20px;
+    }
+    
+}
+
+
+@media(min-width:1280px){
+    
+    .header-content-about
+    {
+        height: 700px;
+    }
+}
+
+/*banner responsive close*/
+
+
+
+
+.font-ipad h1{
+    font-size: 30px;
+}
+.font-ipad p{
+    font-size: 18px;
+}
+.font-ipad h4{
+    font-size: 25px;
+}
+ 
+.font-ipad ul li {
+        
+        margin-top:-26px;
+        padding-left:20px;
+    }
+
+
+
+@media all and (max-width:360px) and (min-width:320px)
+{
+    
+    .font-ipad p{
+        margin-left: -15px;
+        padding-right: 10px;
+    }
+    .font-ipad h4{
+        margin-left: -15px;
+    }
+    .font-ipad h2   {
+        margin-left: -18px;
+    }
+    .font-ipad ul li{
+        margin-left: -20px;
+    }
+    .font-ipad ul span{
+        margin-left: -20px;
+    }
+}
+
+@media(max-width:360px){
+    .font-ipad h1{
+        
+        font-size: 20px;
+    }
+    
+    .font-ipad p{
+        font-size: 15px;
+    }
+    
+    .font-ipad h4{
+        font-size: 20px;
+    }
+    
+    .font-ipad ul h4 li {
+        font-size: 15px;
+    }
+     .font-ipad ul  li {
+        font-size: 15px;
+    }
+}
+
+@media(max-width:375px)
+{
+     .font-ipad {
+         padding-left: 20px;
+    }
+}
+
+@media(max-width:414px)
+{
+    
+      .font-ipad h1{
+        
+        font-size: 20px;
+    }
+    
+    .font-ipad p{
+        font-size: 15px;
+    }
+    
+    .font-ipad h4{
+        font-size: 20px;
+    }
+}
+
+@media(max-width:411px)
+{
+    
+}
+
+@media(min-width:768px)
+{
+       
+}
+
